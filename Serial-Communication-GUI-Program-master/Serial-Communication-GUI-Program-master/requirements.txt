@@ -1,0 +1,7 @@
+PySide6
+PyQt6_sip
+pyserial
+
+# To update the requirements.txt file, run the following command:
+# pip install pipreqs
+# pipreqs path/to/your/project
